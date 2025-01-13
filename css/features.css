@@ -1,0 +1,33 @@
+
+
+.wrap-feature-16 [class*=col-] {
+  padding: 80px 35px; }
+
+.wrap-feature-16 .with-bg {
+  width: 100%;
+  min-height: 200px;
+  background-size: cover;
+  background-position: center center; }
+
+.wrap-feature-16 .with-text {
+  max-width: 500px;
+  margin-left: 80px; }
+
+.wrap-feature23-box {
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: left center; }
+  .wrap-feature23-box .text-box {
+    padding: 30px 20px; }
+
+
+
+ .wrap-feature3-box .card-body {
+  padding: 40px; }
+  .wrap-feature3-box .card-body .icon-space {
+    padding: 0px 40px 20px 0px; }
+
+
+
+.wrap-feature43-box .col-md-6 {
+  margin-bottom: 50px; }

@@ -1,0 +1,43 @@
+
+.raw { margin:0 auto; width:960px; overflow:hidden; }
+.raw .raw { margin:0 -16px 0 -16px; width:auto; display:inline-block; }
+.grid_12 { width:928px; margin:0 16px 0 16px; overflow:hidden; float:left; display:inline; }
+	
+
+@media only screen and (min-width:1200px) {
+
+.raw { margin:0 auto; width:1200px; overflow:hidden; }
+.raw .raw { margin:0 -20px 0 -20px; width:auto; display:inline-block; }
+.grid_12 { width:1160px; margin:0 20px 0 20px; overflow:hidden; float:left; display:inline; }
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+.raw { margin:0 auto; width:768px; overflow:hidden; }
+.raw .raw { margin:0 -14px 0 -14px; width:auto; display:inline-block; }
+.grid_12 { width:740px; margin:0 14px 0 14px; overflow:hidden; float:left; display:inline; }
+			
+}
+
+
+@media only screen and (max-width: 767px) {
+
+.raw { margin:0 auto; width:300px; overflow:hidden; }
+.raw .raw { margin:0; width:auto; display:inline-block; }
+.grid_12 { width:300px; margin:10px 0 0 0; overflow:hidden; float:left; display:inline; }
+
+}	 
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+.raw { margin:0 auto; width:456px; overflow:hidden; }
+.raw .raw { margin:0; width:auto; display:inline-block; }
+.grid_12 { width:456px; margin:10px 0 0 0; overflow:hidden; float:left; display:inline; }
+
+}
+
+
+

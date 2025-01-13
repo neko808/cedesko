@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/q-somos.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/q-estrategia.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/programas.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/noticias.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/alianzas.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/toptv.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/comites.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/directorio.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/contacto.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/viviendo-positivamente.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-arca-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-bepensa-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-cimsa-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-femsa-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-coca-cola-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-colima-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-continental-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-del-fuerte-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-jugos-del-valle-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-nayar-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-rica-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-foque-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-queretaro-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-tampico-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-yoli-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+	<url>
+       	<loc>http://www.cedesko.com.mx/embotelladoras/emb-nogales-q-somos.html</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+
+
+
+
+ </urlset>	

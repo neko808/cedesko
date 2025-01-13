@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /comite/
+Disallow: /files/
+Disallow: /tutoriales/
+Disallow: /seguridad/
+Disallow: /programas/
+Disallow: /intro/
